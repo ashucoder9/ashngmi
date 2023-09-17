@@ -22,6 +22,11 @@
 }
 
 
+.fa-linkedin:before {
+  content: "\f08c";
+}
+
+
 .fa-github:before {
   content: "\f09b";
 }
