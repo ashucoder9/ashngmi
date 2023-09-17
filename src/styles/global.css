@@ -132,17 +132,39 @@
         if you want an anchor tag to not have this style, 
         just add a class `unset` to it. 
     */
+
     a:not(.unset) {
+        position: relative;
+        display: inline-block;
         text-decoration: none;
-        background-repeat: no-repeat;
-        background-size: 100% 1.5px;
+        font-weight: 600;
+        background-size: 100% 2px;
         background-position: 0 100%;
-        background-image:
-            linear-gradient(to right, theme('colors.text.link'), theme('colors.text.link'));
+        background-image: linear-gradient(to right, #00abda, #1476ff);
+        transition: background-image 0.15s;
     }
 
-    a:not(.unset):hover {
-        color: theme('colors.text.link');
+    a:not(.unset):after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        background-image: linear-gradient(to right, #00abda, #1476ff);
+        bottom: 0;
+        left: 0;
+        transform: scaleX(0);
+        transform-origin: bottom right;
+        transition: transform 0.25s ease-out;
+    }
+
+    a:not(.unset):hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+    }
+
+    .index-link {
+        -webkit-background-clip: text;
+        color: transparent;
     }
 
     code:not(pre code):not(.unset) {
