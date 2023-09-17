@@ -27,6 +27,16 @@
 }
 
 
+.fa-instagram:before {
+  content: "\f16d";
+}
+
+
+.fa-mailchimp:before {
+  content: "\f59e";
+}
+
+
 .fa-github:before {
   content: "\f09b";
 }
