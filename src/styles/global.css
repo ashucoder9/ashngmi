@@ -2,6 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
+
+.unset-gradient-link {
+  background-clip: text;
+  text-transform: none;
+  font-weight: bold;
+  background-image: linear-gradient(to right, #00abda, #1476ff);
+  color: transparent;
+  letter-spacing: wider;
+}
+
+.unset-gradient-link:hover::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: linear-gradient(to right, #00abda, #1476ff);
+}
+
 @layer base {
 
     /* light theme */
