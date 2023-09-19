@@ -3,6 +3,7 @@ external: false
 title: "How to Send Decentralized Notifications Using EPNS"
 description: In this tutorial, I will show you the easiest way to send decentralized notifications using EPNS via the channel dashboard.
 date: 2022-07-28
+ogImagePath: https://ashngmi.xyz/images/blog/6.webp
 ---
 
 ![](/images/blog/6.webp)

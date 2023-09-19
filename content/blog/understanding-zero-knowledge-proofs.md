@@ -3,6 +3,7 @@ external: false
 title: "Simple ELI5 Explanation of Zero Knowledge Proofs"
 description: An article to build your mental model around Zero-Knowledge Proofs.
 date: 2023-03-08
+ogImagePath: https://ashngmi.xyz/images/blog/3.webp
 ---
 
 ![](/images/blog/3.webp)

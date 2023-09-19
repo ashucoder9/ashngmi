@@ -3,6 +3,7 @@ external: false
 title: "Getting Started With Web3 Notifications Using EPNS"
 description: This is a quickstart tutorial for developers to start integrating Web3 notifications in their projects using Ethereum Push Notification Service (EPNS).
 date: 2022-07-20
+ogImagePath: https://ashngmi.xyz/images/blog/7.webp
 ---
 
 ![](/images/blog/7.webp)

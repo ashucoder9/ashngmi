@@ -3,6 +3,7 @@ external: false
 title: "How To Send Notifications From A Subgraph"
 description: In this tutorial, I will show you how to use the EPNS Helper Function to integrate your channel with a Subgraph.
 date: 2022-08-12
+ogImagePath: https://ashngmi.xyz/images/blog/4.webp
 ---
 
 ![](/images/blog/4.webp)

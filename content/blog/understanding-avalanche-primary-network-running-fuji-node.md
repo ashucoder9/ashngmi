@@ -1,8 +1,9 @@
 ---
 external: false
-title: "Exploring the Avalanche Primary Network: Your Ultimate Guide to Getting Started"
+title: "Exploring the Avalanche Primary Network"
 description: In this blog, we'll try to understand the Avalanche Primary Network, its various chains, and their use cases.
 date: 2023-09-18
+ogImagePath: https://ashngmi.xyz/images/blog/8.jpg
 ---
 
 ![](/images/blog/8.jpg)

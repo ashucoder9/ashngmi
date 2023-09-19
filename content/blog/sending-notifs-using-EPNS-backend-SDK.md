@@ -3,6 +3,7 @@ external: false
 title: "Sending Notifications Using EPNS Backend SDK"
 description: In this tutorial, I will show you how to use the EPNS backend SDK and send notifications from your dApp.
 date: 2022-08-06
+ogImagePath: https://ashngmi.xyz/images/blog/5.webp
 ---
 
 ![](/images/blog/5.webp)

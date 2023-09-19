@@ -3,6 +3,7 @@ external: false
 title: "From Ethereum to Avalanche: Understanding the Fundamentals"
 description: A sneak peek into the Avalanche ecosystem.
 date: 2023-08-28
+ogImagePath: https://ashngmi.xyz/images/blog/1.webp
 ---
 
 ![](/images/blog/1.webp)

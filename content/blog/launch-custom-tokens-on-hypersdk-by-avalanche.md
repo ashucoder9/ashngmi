@@ -3,6 +3,7 @@ external: false
 title: "Launching Custom Tokens With HyperSDK By Avalanche"
 description: Building on the Anything Virtual Machine.
 date: 2023-06-12
+ogImagePath: https://ashngmi.xyz/images/blog/2.webp
 ---
 
 ![](/images/blog/2.webp)
